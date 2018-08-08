@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ReactiveUiBindCommandSamples.Properties
+namespace ReactiveUiBindCommandSamples.Wpf.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace ReactiveUiBindCommandSamples.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ReactiveUiBindCommandSamples.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ReactiveUiBindCommandSamples.Wpf.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

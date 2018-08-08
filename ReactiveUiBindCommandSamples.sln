@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveUiBindCommandSamples", "ReactiveUiBindCommandSamples\ReactiveUiBindCommandSamples.csproj", "{1BDD926D-82C2-407E-ABF9-A46EE8969F3D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveUiBindCommandSamples.WinForms", "ReactiveUiBindCommandSamples.WinForms\ReactiveUiBindCommandSamples.WinForms.csproj", "{1BDD926D-82C2-407E-ABF9-A46EE8969F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveUiBindCommandSamples.Wpf", "ReactiveUiBindCommandSamples.Wpf\ReactiveUiBindCommandSamples.Wpf.csproj", "{782212C2-EF74-4ED1-9FA9-B5ACD37C067F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1BDD926D-82C2-407E-ABF9-A46EE8969F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BDD926D-82C2-407E-ABF9-A46EE8969F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BDD926D-82C2-407E-ABF9-A46EE8969F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{782212C2-EF74-4ED1-9FA9-B5ACD37C067F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{782212C2-EF74-4ED1-9FA9-B5ACD37C067F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{782212C2-EF74-4ED1-9FA9-B5ACD37C067F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{782212C2-EF74-4ED1-9FA9-B5ACD37C067F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
